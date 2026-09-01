@@ -25,7 +25,7 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
 
 ### 🏆 GITHUB_TROPHIES // RECOMPENSAS_DE_MISSÃO
 <div align="center">
-  <img src="https://vercel.app" />
+  <img src="https://vercel.app" alt="Trofeus" />
 </div>
 
 ---
@@ -57,14 +57,14 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
 ### 📊 SYSTEM_METRICS // DASHBOARD_DE_PERFORMANCE
 
 <div align="center">
-  <img src="https://vercel.app" height="160" />
-  <img src="https://vercel.app" height="160" />
+  <img src="https://vercel.app" height="160" alt="Stats" />
+  <img src="https://vercel.app" height="160" alt="Langs" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://herokuapp.com" />
+  <img src="https://herokuapp.com" alt="Streak" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" />
   </a>
-  <a href="mailto:giovana@teu-email.com" target="_blank">
+  <a href="mailto:giovana@exemplo.com" target="_blank">
     <img src="https://shields.io" />
   </a>
 </div>
@@ -87,6 +87,5 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" />
+  <img src="https://vercel.app" alt="Divider" />
 </p>
-
