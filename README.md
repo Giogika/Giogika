@@ -110,11 +110,13 @@
 ## 🐍 NET_RUNNER // ANIMAÇÃO_DE_CONTRIBUIÇÕES
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Snake Game" src="https://githubusercontent.com" width="97%">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Snake Game" src="https://githubusercontent.com" width="97%">
+</picture>
+
 </p>
 
 ---
