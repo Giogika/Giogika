@@ -1,6 +1,6 @@
 <!-- CENTRAL BANNER & SYSTEM INITIALIZATION -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="System Banner" />
+  <img src="https://vercel.app" width="100%" alt="Giovana Santos Banner" />
 </p>
 
 <!-- TYPING ANIMATION SUBTITLE -->
@@ -13,24 +13,25 @@
 <p align="center">
   <img src="https://shields.io" alt="Security Status">
   <img src="https://shields.io" alt="Environment">
-  <img src="https://shields.io" alt="Location">
+  <img src="https://shields.io" alt="Status">
 </p>
 
 ---
 
-<!-- TERMINAL / ABOUT ME SECTON -->
+<!-- TERMINAL / ABOUT ME SECTION -->
 ## 🖥️ [SYS.LOG] // PROTOCOLO_SOBRE_MIM
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p><b>⚡ Inicializando transmissão de dados...</b></p>
-      <p>Bem-vindo ao meu núcleo de desenvolvimento. Sou uma mente criativa e técnica que opera na interseção entre a lógica dos algoritmos e a estética digital futurista. Desenvolvo arquiteturas focadas em Inteligência Artificial, automação e sistemas cibernéticos.</p>
-      <p>🤖 <b>Diretriz Principal:</b> Transformar linhas de código em inteligência funcional e interfaces imersivas.</p>
-      <p>🌌 <i>"O futuro não é algo que acontece, é algo que nós programamos."</i></p>
+      <p><b>⚡ Inicializando transmissão de dados do núcleo central...</b></p>
+      <p>Sou uma mente <b>criativa + técnica</b> e altamente <b>comunicativa</b>, focada no desenvolvimento de soluções tecnológicas inteligentes. Atualmente, como <b>Estudante de Inteligência Artificial</b>, dedico-me a manter o meu <b>Python em evolução</b> contínua e a aprofundar os meus conhecimentos em arquiteturas de dados.</p>
+      <p>🎮 🤖 Trago uma sólida bagagem e afinidade com o desenvolvimento de <b>jogos digitais</b> e sistemas de <b>robótica</b>, estruturados através de um domínio firme em <b>lógica de programação</b> e <b>Estrutura de Dados</b>.</p>
+      <p>📊 🔍 Além disso, possuo competências fundamentais na análise de ecossistemas complexos, com conhecimentos em <b>Big Data</b>, modelação em <b>SQL</b> e criação de dashboards em <b>Power BI</b>.</p>
+      <p>💼 <b>Diretriz Atual:</b> Em busca ativa de uma oportunidade de <b>estágio em tecnologia</b> para aplicar esta matriz de competências em desafios reais.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- TROFÉUS GITHUB COM ESTILO PREMIUM/DARK -->
+      <!-- TROFÉUS GITHUB COM CORES DE ACORDO COM O TEMA -->
       <img src="https://vercel.app" width="100%" alt="GitHub Trophies" />
     </td>
   </tr>
@@ -38,28 +39,33 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK & TOOLS -->
 ## 📊 TECH_STACK // MATRIZ_DE_CONHECIMENTO
 
-<p align="left">
-  <!-- IDIOMAS / CORE -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
-  <br>
-  <!-- IA & DADOS -->
-  <img src="https://shields.io" alt="PyTorch" />
-  <img src="https://shields.io" alt="TensorFlow" />
-  <img src="https://shields.io" alt="OpenCV" />
-  <img src="https://shields.io" alt="Pandas" />
-  <br>
-  <!-- FERRAMENTAS & INFRA -->
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="ROS" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Linguagens & Algoritmos</h4>
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="C++" />
+      <img src="https://shields.io" alt="SQL" />
+      <img src="https://shields.io" alt="Estrutura de Dados" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Big Data & Analytics</h4>
+      <img src="https://shields.io" alt="Power BI" />
+      <img src="https://shields.io" alt="Big Data" />
+      <img src="https://shields.io" alt="PyTorch" />
+    </td>
+    <td width="34%" valign="top">
+      <h4>Robótica, Jogos & Infra</h4>
+      <img src="https://shields.io" alt="ROS" />
+      <img src="https://shields.io" alt="Unity" />
+      <img src="https://shields.io" alt="Linux" />
+      <img src="https://shields.io" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,43 +74,15 @@
 
 ```text
 ========================================================================
-[STATUS] ACESSANDO ARQUIVOS DE DIRETRIZES...
+[STATUS] PROTOCOLOS DE EVOLUÇÃO OPERACIONAIS // GIOVANA_SANTOS
 ========================================================================
-⚡ [01] Otimizar redes neurais profundas para visão computacional.
-🚀 [02] Desenvolver algoritmos avançados aplicados à robótica móvel.
-🌌 [03] Expandir arquiteturas de Agentes de IA autônomos.
-🔍 [04] Em busca ativa de posições de estágio e cooperação técnica.
+[🎯] Otimização de pipelines de Big Data e consultas SQL estruturadas.
+[🔥] Consolidação de algoritmos avançados em Estrutura de Dados (Python).
+[⚡] Integração de modelos de Inteligência Artificial em robótica móvel.
+[💼] Conquista de espaço no mercado corporativo via Estágio Técnico.
 ========================================================================
-[SISTEMA PRONTO PARA NOVAS TAREFAS...]
+[SISTEMA AGUARDANDO COMANDO DE CONEXÃO EXTERNA...]
 ```
-
----
-
-<!-- FEATURED PROJECTS WITH PREMIUM HTML CARDS -->
-## ⚡ FEATURED_PROJECTS // MÓDULOS_ATIVOS
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛸 Project: JARVIS-Core</h3>
-      <p>Sistema modular de automação assistida por IA, integrando reconhecimento de voz contextual e processamento de linguagem natural local.</p>
-      <p>
-        <img src="https://shields.io" alt="Python">
-        <img src="https://shields.io" alt="LangChain">
-      </p>
-      <a href="https://github.com"><b>[ACESSAR REPOSITÓRIO]</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ Project: CyberEye-Vision</h3>
-      <p>Pipeline de visão computacional em tempo real capaz de detetar anomalias de hardware e fazer mapeamento espacial via redes convolucionais.</p>
-      <p>
-        <img src="https://shields.io" alt="C++">
-        <img src="https://shields.io" alt="OpenCV">
-      </p>
-      <a href="https://github.com"><b>[ACESSAR REPOSITÓRIO]</b></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -135,7 +113,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
     <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Fiction Snake" src="https://githubusercontent.com" width="97%">
+    <img alt="GitHub Snake Game" src="https://githubusercontent.com" width="97%">
   </picture>
 </p>
 
@@ -152,17 +130,12 @@
   <a href="mailto:seu_email@dominio.com">
     <img src="https://shields.io" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
 </p>
 
 ---
 
 <!-- PREMIUM FOOTER -->
 <p align="center">
-  <sub>SISTEMA ATIVO COMPATÍVEL COM PROJETOS DE VANGUARDA • DESENVOLVIDO EM 2026</sub><br>
-  <img src="https://githubusercontent.com" width="100%" alt="Cyberpunk Separator" />
+  <sub>SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub><br>
+  <img src="https://vercel.app" width="100%" alt="Cyberpunk Divider" />
 </p>
-
