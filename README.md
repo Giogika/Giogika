@@ -2,12 +2,15 @@
 
 ![Efeito Digitacao](https://demolab.com)
 
-![Ambiente Seguro](https://shields.io) ![Status do Sistema](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" alt="Ambiente Seguro" />
+  <img src="https://shields.io" alt="Status do Sistema" />
+</p>
 
 ---
 
 ### 🖥️ [SYS.LOG] // PROTOCOLO_SOBRE_MIM
-Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvimento de soluções tecnológicas inteligentes. Atualmente, como Estudante de Inteligência Artificial, dedico-me a manter o meu Python em evolução contínua e a aprofundar os meus conhecimentos em arquiteturas de dados.
+Sou uma mente criativa + técnica e altamente comunicativa, focada no desenvolvimento de soluções tecnológicas inteligentes. Atualmente, como Estudante de Inteligência Artificial, dedico-me a manter o meu Python em evolução contínua e a aprofundar os meus conhecimentos em arquiteturas de dados.
 
 🎮 🤖 Trago uma sólida bagagem e afinidade com o desenvolvimento de jogos digitais e sistemas de robótica, estruturados através de um domínio firme em lógica de programação e Estrutura de Dados.
 
@@ -18,7 +21,9 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
 ---
 
 ### 🏆 GITHUB_TROPHIES // RECOMPENSAS_DE_MISSÃO
-![Trofeus](https://vercel.app)
+<div align="center">
+  <img src="https://vercel.app" alt="Trofeus" />
+</div>
 
 ---
 
@@ -47,17 +52,32 @@ Sou uma mente criativa + técnica e altamente comunicativa, focada do desenvolvi
 ---
 
 ### 📊 SYSTEM_METRICS // DASHBOARD_DE_PERFORMANCE
-![Stats](https://vercel.app)
 
-![Langs](https://vercel.app)
+<div align="center">
+  <img src="https://vercel.app" height="160" alt="Stats" />
+  <img src="https://vercel.app" height="160" alt="Langs" />
+</div>
 
-![Streak](https://herokuapp.com)
+<br />
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="Streak" />
+</div>
 
 ---
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:giovana@exemplo.com)
+
+<div align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giovana@exemplo.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</div>
 
 ---
-SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026
+<p align="center">
+  <sub>SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+</p>
