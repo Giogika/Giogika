@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION SUBTITLE -->
 <p align="center">
-  <a href="https://git.io">
+  <a href="https://github.com">
     <img src="https://demolab.com" alt="Typing Effect" />
   </a>
 </p>
@@ -31,7 +31,7 @@
       <p>💼 <b>Diretriz Atual:</b> Em busca ativa de uma oportunidade de <b>estágio em tecnologia</b> para aplicar esta matriz de competências em desafios reais.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- TROFÉUS GITHUB COM CORES DE ACORDO COM O TEMA -->
+      <!-- TROFÉUS GITHUB DO GIOGIKA -->
       <img src="https://vercel.app" width="100%" alt="GitHub Trophies" />
     </td>
   </tr>
@@ -44,24 +44,24 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h4>Linguagens & Algoritmos</h4>
-      <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="C++" />
-      <img src="https://shields.io" alt="SQL" />
+      <img src="https://shields.io" alt="Python" /><br/><br/>
+      <img src="https://shields.io" alt="C++" /><br/><br/>
+      <img src="https://shields.io" alt="SQL" /><br/><br/>
       <img src="https://shields.io" alt="Estrutura de Dados" />
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h4>Big Data & Analytics</h4>
-      <img src="https://shields.io" alt="Power BI" />
-      <img src="https://shields.io" alt="Big Data" />
+      <img src="https://shields.io" alt="Power BI" /><br/><br/>
+      <img src="https://shields.io" alt="Big Data" /><br/><br/>
       <img src="https://shields.io" alt="PyTorch" />
     </td>
-    <td width="34%" valign="top">
+    <td width="34%" valign="top" align="center">
       <h4>Robótica, Jogos & Infra</h4>
-      <img src="https://shields.io" alt="ROS" />
-      <img src="https://shields.io" alt="Unity" />
-      <img src="https://shields.io" alt="Linux" />
+      <img src="https://shields.io" alt="ROS" /><br/><br/>
+      <img src="https://shields.io" alt="Unity" /><br/><br/>
+      <img src="https://shields.io" alt="Linux" /><br/><br/>
       <img src="https://shields.io" alt="Git" />
     </td>
   </tr>
