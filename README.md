@@ -43,10 +43,14 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/) 
-📧 **E-mail Profissional:** [giovanasantossilva2008@gmail.com](mailto:giovanasantossilva2008@gmail.com)
+🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)
+📧 **E-mail Profissional:** [giovanasantossilva2008@gmail.com](emailto:giovanasantossilva2008@gmail.com)
 
 ---
 
-<img src="https://githubusercontent.com" width="100%" alt="Rodapé" />
-
+<p align="center">
+  <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+  <br /><br />
+  <!-- O TEU RODAPÉ APENAS COMO FICHEIRO NO FINAL DO PERFIL -->
+  <img src="./rodape.gif" width="100%" alt="Rodapé" />
+</p>
