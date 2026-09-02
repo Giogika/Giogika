@@ -1,49 +1,68 @@
-# 🖥️ [SYS.LOG] // GIOVANA_DOS_SANTOS // TERMINAL_ATIVO
+# Giovana Santos
 
-```text
+<div align="center">
+  <!-- BANNER CYBERPUNK NATIVO (Garantido pelo GitHub) -->
+  <img src="https://vercel.app" width="100%" alt="Banner Cyberpunk" />
+</div>
+
+<p align="center">
+  <!-- BLOCKS ESTÁTICOS INTERNOS QUE NÃO CAEM -->
+  <code><img height="25" src="https://shields.io" /></code>
+  <code><img height="25" src="https://shields.io" /></code>
+</p>
+
+---
+
+### 🖥️ [SYS.LOG] // PROTOCOLO_SOBRE_MIM
+
+Sou uma mente criativa + técnica e altamente comunicativa, focada no desenvolvimento de soluções tecnológicas inteligentes. Atualmente, como Estudante de Inteligência Artificial, dedico-me a manter o meu Python em evolução contínua e a aprofundar os meus conhecimentos em arquiteturas de dados.
+
+🎮 🤖 Trago uma sólida bagagem e afinidade com o desenvolvimento de jogos digitais e sistemas de robótica, estruturados através de um domínio firme em lógica de programação e Estrutura de Dados.
+
+📊 🔍 Além disso, possuo competências fundamentais na análise de ecossistemas complexos, com conhecimentos em Big Data, modelação em SQL e criação de dashboards em Power BI.
+
+💼 **Diretriz Atual:** Em busca ativa de uma oportunidade de estágio em tecnologia para aplicar esta matriz de competências em desafios reais.
+
+---
+
+### 📊 TECH_STACK // MATRIZ_DE_CONHECIMENTO COLORIDA
+
+| Setor | Tecnologias e Ferramentas |
+| :--- | :--- |
+| 🟦 **Linguagens & Algoritmos** | `Python` `C++` `SQL` `Estrutura de Dados` |
+| 🟨 **Big Data & Analytics** | `Power BI` `Big Data` `PyTorch` |
+| 🟩 **Robótica, Jogos & Infra** | `ROS` `Unity` `Linux` `Git` |
+
+---
+
+### 🧠 CURRENT_OBJECTIVES // TERMINAL_DE_METAS COLORIDO
+```diff
 ========================================================================
-[SISTEMA NEURAL] PROTOCOLO DE TRANSMISSÃO DE DADOS OPERACIONAIS 
+[STATUS] PROTOCOLOS DE EVOLUÇÃO OPERACIONAIS // GIOVANA_SANTOS
 ========================================================================
-
-> DIRETRIZ_SOBRE_MIM:
-  Sou uma mente criativa + técnica e altamente comunicativa, focada no 
-  desenvolvimento de soluções tecnológicas inteligentes. Atualmente, 
-  como Estudante de Inteligência Artificial, dedico-me a manter o meu 
-  Python em evolução contínua e a aprofundar conhecimentos em dados.
-
-> BAGAGEM_TÉCNICA:
-  [🎮 JOGOS]  Sólida afinidade com o desenvolvimento de jogos digitais.
-  [🤖 ROBOT]  Sistemas de robótica baseados em ROS e infraestrutura Linux.
-  [📊 DATA]   Análise de ecossistemas com Big Data, SQL e Power BI.
-
-> DIRETRIZ_ATUAL:
-  [💼 STATUS] Em busca ativa de estágio técnico para aplicar esta matriz.
-
-========================================================================
-📊 TECH_STACK // MATRIZ_DE_CONHECIMENTO_OPERACIONAL
-========================================================================
-
-  [LINGUAGENS] ----> Python | C++ | SQL | Estrutura de Dados
-  [ANALYTICS] -----> Power BI | Big Data | PyTorch
-  [INFRA & ROBOT] -> ROS | Unity | Linux | Git
-
-========================================================================
-🧠 CURRENT_OBJECTIVES // TERMINAL_DE_METAS
-========================================================================
-
-  [🎯] Otimização de pipelines de Big Data e consultas SQL estruturadas.
-  [🔥] Consolidação de algoritmos avançados em Estrutura de Dados.
-  [⚡] Integração de modelos de Inteligência Artificial em robótica móvel.
-  [💼] Conquista de espaço no mercado corporativo via Estágio Técnico.
-
-========================================================================
-📡 LINK_ESTABELECIDO // CONECTAR_REDE // ENVIAR_SINAL
-========================================================================
-
-  [LINKEDIN] ------> ://linkedin.com
-  [EMAIL] ---------> giovana@exemplo.com
-
-========================================================================
-             [SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026]
++ [🎯] Otimização de pipelines de Big Data e consultas SQL estruturadas.
++ [🔥] Consolidação de algoritmos avançados em Estrutura de Dados (Python).
++ [⚡] Integração de modelos de Inteligência Artificial em robótica móvel.
++ [💼] Conquista de espaço no mercado corporativo via Estágio Técnico.
 ========================================================================
 ```
+
+---
+
+### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
+
+<div align="center">
+  <!-- BOTÕES DE CONTACTO DE ALTA ESTABILIDADE -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:giovana@exemplo.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+</div>
+
+---
+<p align="center">
+  <sub>SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+</p>
