@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- O TEU BANNER GALÁXIA LOCAL NO TOPO DO PERFIL (IMUNE A ERROS) -->
-  <img src="Giovana_Santos.png" width="100%" alt="Giovana Santos Banner" />
+  <!-- O TEU BANNER GALÁXIA ANIMADO (.GIF) NO TOPO DO PERFIL -->
+  <img src="Giovana_Santos.gif" width="100%" alt="Giovana Santos Banner" />
 </div>
 
 ### ⚡ PROTOCOLO_SOBRE_MIM // TERMINAL_OPERACIONAL
@@ -43,8 +43,16 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)  
-📧 **E-mail Profissional:** [giovanasantosilva2008@gmail.com](mailto:giovanasantosilva2008@gmail.com)
+<div align="center">
+  <!-- BOTÕES CLICÁVEIS PERSONALIZADOS EM ROXO E ROSA COM O TEU LINK REAL -->
+  <a href="https://www.linkedin.com/in/giovana-dos-santos-s/" target="_blank">
+    <img src="https://shields.io🟣%20Conectar-7B2CBF?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:giovanasantosilva2008@gmail.com" target="_blank">
+    <img src="https://shields.io💖%20Enviar%20Mensagem-FF477E?style=for-the-badge" alt="Email" />
+  </a>
+</div>
 
 ---
 
