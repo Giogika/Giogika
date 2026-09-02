@@ -1,8 +1,4 @@
-<div align="center">
-  <!-- CABEÇALHO GALÁXIA COM CACHE BUSTER (?v=1) PARA FORÇAR O LINK A CARREGAR -->
-  <img src="https://vercel.app" width="100%" alt="Cabeçalho Galáxia" />
-</div>
-
+# 🪐 Giovana Santos
 ### ⚡ PROTOCOLO_SOBRE_MIM // TERMINAL_OPERACIONAL
 
 🔹 **[SYS.LOG]** ────────────────────────────────────────────────────────
@@ -21,9 +17,9 @@
 
 | Setor | Tecnologias e Ferramentas |
 | :--- | :--- |
-| 🟪 **Linguagens & Algoritmos** | `Python` 🟪 `C++` `SQL` 🔮 `Estrutura de Dados` |
-| 🟪 **Big Data & Analytics** | `Power BI` 📊 `Big Data` 🔍 `PyTorch` 🔥 |
-| 🟪 **Robótica, Jogos & Infra** | `ROS` 🤖 `Unity` 🎮 `Linux` 🖥️ `Git` ⚙️ |
+| 🟦 **Linguagens & Algoritmos** | `Python` 🟡 `C++` `SQL` 🟣 `Estrutura de Dados` |
+| 🟨 **Big Data & Analytics** | `Power BI` 📊 `Big Data` 🔍 `PyTorch` 🔥 |
+| 🟩 **Robótica, Jogos & Infra** | `ROS` 🤖 `Unity` 🎮 `Linux` 🖥️ `Git` ⚙️ |
 
 ---
 
@@ -43,13 +39,10 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)  
+🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)  
 📧 **E-mail Profissional:** [giovanasantosilva2008@gmail.com](mailto:giovanasantosilva2008@gmail.com)
 
 ---
-<div align="center">
-  <!-- RODAPÉ GALÁXIA COM CACHE BUSTER (?v=1) -->
-  <img src="https://vercel.app" width="100%" alt="Rodapé Galáxia" />
-  <br />
-  <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
-</div>
+<p align="center">
+  <sub>🟢 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+</p>
