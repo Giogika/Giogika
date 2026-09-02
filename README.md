@@ -1,4 +1,8 @@
-# 🪐 Giovana Santos
+<div align="center">
+  <!-- O TEU BANNER GALÁXIA LOCAL NO TOPO DO PERFIL (IMUNE A ERROS) -->
+  <img src="Giovana_Santos.png" width="100%" alt="Giovana Santos Banner" />
+</div>
+
 ### ⚡ PROTOCOLO_SOBRE_MIM // TERMINAL_OPERACIONAL
 
 🔹 **[SYS.LOG]** ────────────────────────────────────────────────────────
@@ -39,14 +43,11 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)  
+🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)  
 📧 **E-mail Profissional:** [giovanasantosilva2008@gmail.com](mailto:giovanasantosilva2008@gmail.com)
 
 ---
 
 <div align="center">
-  <!-- O SEU RODAPÉ GALÁXIA LOCAL EM IMAGEM (IMUNE A ERROS) -->
-  <img src="Giovana_Santos.png" width="100%" alt="Rodapé Galáxia" />
-  <br />
   <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
 </div>
