@@ -48,9 +48,9 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
   <br /><br />
   <!-- O TEU RODAPÉ APENAS COMO FICHEIRO NO FINAL DO PERFIL -->
-  <img src="Rodape.gif" width="100%" alt="Rodapé.gif" />
-</div>
+  <img src="./Rodape.gif" width="100%" alt="Rodapé" />
+</p>
