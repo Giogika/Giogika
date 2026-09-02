@@ -17,7 +17,7 @@
 
 | Setor | Tecnologias e Ferramentas |
 | :--- | :--- |
-| 🟦 **Linguagens & Algoritmos** | `Python` 🟡 `C++` 🔵 `SQL` 🟣 `Estrutura de Dados` |
+| 🟦 **Linguagens & Algoritmos** | `Python` 🟡 `C++` `SQL` 🟣 `Estrutura de Dados` |
 | 🟨 **Big Data & Analytics** | `Power BI` 📊 `Big Data` 🔍 `PyTorch` 🔥 |
 | 🟩 **Robótica, Jogos & Infra** | `ROS` 🤖 `Unity` 🎮 `Linux` 🖥️ `Git` ⚙️ |
 
@@ -39,8 +39,8 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [Conectar com Giovana Santos](https://linkedin.com)  
-📧 **E-mail Profissional:** [Enviar Mensagem](mailto:giovana@exemplo.com)
+🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)  
+📧 **E-mail Profissional:** [giovanasantosilva2008@gmail.com](mailto:giovanasantosilva2008@gmail.com)
 
 ---
 <p align="center">
