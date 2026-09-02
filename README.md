@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- CABEÇALHO ESTILO GALÁXIA (ROSA E ROXO) -->
+  <!-- CABEÇALHO GALÁXIA COM CACHE BUSTER (?v=1) PARA FORÇAR O LINK A CARREGAR -->
   <img src="https://vercel.app" width="100%" alt="Cabeçalho Galáxia" />
 </div>
 
@@ -48,7 +48,7 @@
 
 ---
 <div align="center">
-  <!-- RODAPÉ ESTILO GALÁXIA (ROSA E ROXO) -->
+  <!-- RODAPÉ GALÁXIA COM CACHE BUSTER (?v=1) -->
   <img src="https://vercel.app" width="100%" alt="Rodapé Galáxia" />
   <br />
   <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
