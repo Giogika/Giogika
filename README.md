@@ -50,4 +50,7 @@
 
 <div align="center">
   <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+  <br /><br />
+  <!-- O TEU RODAPÉ GALÁXIA ANIMADO (.GIF) NO FINAL DO PERFIL -->
+  <img src="Rodape.gif" width="100%" alt="Rodapé Galáxia Animado" />
 </div>
