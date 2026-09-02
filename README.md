@@ -17,9 +17,9 @@
 
 | Setor | Tecnologias e Ferramentas |
 | :--- | :--- |
-| 🟦 **Linguagens & Algoritmos** | `Python` 🟡 `C++` `SQL` 🟣 `Estrutura de Dados` |
-| 🟨 **Big Data & Analytics** | `Power BI` 📊 `Big Data` 🔍 `PyTorch` 🔥 |
-| 🟩 **Robótica, Jogos & Infra** | `ROS` 🤖 `Unity` 🎮 `Linux` 🖥️ `Git` ⚙️ |
+| 🟪 **Linguagens & Algoritmos** | `Python` 🟪 `C++` `SQL` 🔮 `Estrutura de Dados` |
+| 🟪 **Big Data & Analytics** | `Power BI` 📊 `Big Data` 🔍 `PyTorch` 🔥 |
+| 🟪 **Robótica, Jogos & Infra** | `ROS` 🤖 `Unity` 🎮 `Linux` 🖥️ `Git` ⚙️ |
 
 ---
 
@@ -39,10 +39,14 @@
 
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
-🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/)  
+🌐 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)  
 📧 **E-mail Profissional:** [giovanasantosilva2008@gmail.com](mailto:giovanasantosilva2008@gmail.com)
 
 ---
-<p align="center">
-  <sub>🟢 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
-</p>
+
+<div align="center">
+  <!-- RODAPÉ ANIMADO GALÁXIA EM VÍDEO NATIVO -->
+  <video src="Giovana_Santos.mp4" width="100%" autoplay loop muted playsinline></video>
+  <br />
+  <sub>🟣 STATUS: SISTEMA NEURAL ATIVO • GIOVANA SANTOS © 2026</sub>
+</div>
