@@ -44,7 +44,7 @@
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
 🌐 **LinkedIn:** [linkedin.com/in/giovana-dos-santos-s](https://www.linkedin.com/in/giovana-dos-santos-s/) 
-📧 **E-mail Profissional:** [Enviar Mensagem para giovanasantossilva2008@gmail.com](mailto:giovanasantossilva2008@gmail.com)
+📧 **E-mail Profissional:** [giovanasantossilva2008@gmail.com](mailto:giovanasantossilva2008@gmail.com)
 
 ---
 
