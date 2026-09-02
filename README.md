@@ -44,12 +44,12 @@
 ### 📡 LINK_ESTABELECIDO // CONECTAR_REDE
 
 <div align="center">
-  <!-- BOTÕES CLICÁVEIS PERSONALIZADOS EM ROXO E ROSA COM O TEU LINK REAL -->
+  <!-- BOTÕES DE CONTACTO EM ROXO E ROSA TOTALMENTE OPERACIONAIS -->
   <a href="https://www.linkedin.com/in/giovana-dos-santos-s/" target="_blank">
     <img src="https://shields.io🟣%20Conectar-7B2CBF?style=for-the-badge" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:giovanasantosilva2008@gmail.com" target="_blank">
+  <a href="mailto:giovanasantossilva2008@gmail.com" target="_blank">
     <img src="https://shields.io💖%20Enviar%20Mensagem-FF477E?style=for-the-badge" alt="Email" />
   </a>
 </div>
